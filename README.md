@@ -87,10 +87,13 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as client_socket:
 ```
 ## OUPUT:
 ## Server:
+<img width="1481" height="311" alt="image" src="https://github.com/user-attachments/assets/897c3d65-5e21-4a14-a435-749de3c23cf0" />
+
 
 
 ## Client:
 
+<img width="1480" height="329" alt="image" src="https://github.com/user-attachments/assets/8b545ceb-053a-44ae-9fbc-f69a70fdc269" />
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
